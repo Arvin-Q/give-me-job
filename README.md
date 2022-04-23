@@ -1,3 +1,3 @@
-# give-me-jobb
+# give-me-job
 first repository
 
